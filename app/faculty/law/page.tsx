@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function faculty() {
+export default function Law() {
   return (
     <>
       <h1 className="text-center font-bold mt-10">Faculty of Law</h1>
