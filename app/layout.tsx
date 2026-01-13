@@ -27,7 +27,14 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <h1 className="text-center font-bold text-blue-600">Southeast Asia University</h1>
+        <hr className="my-10" />
+
         {children}
+x1
+        <hr className="my-10" />
+        <h5 className="text-center">Created by Phatsapong ✅ </h5>
+
       </body>
     </html>
   );
